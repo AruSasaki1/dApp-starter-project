@@ -14,13 +14,14 @@
 
 .header {
   text-align: center;
+  color: green;
   font-size: 32px;
   font-weight: 600;
 }
 
 .bio {
   text-align: center;
-  color: gray;
+  color: skyblue;
   margin-top: 16px;
 }
 
